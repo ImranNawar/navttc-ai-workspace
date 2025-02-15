@@ -12,6 +12,7 @@ A collaborative learning environment for NAVTTC's Artificial Intelligence course
 ## Repository Structure
 ```
 navttc-ai-workspace/
+├── presentations/  # Students presentations
 ├── projects/       # Individual and group projects
 ├── tutorials/      # Hands-on practice materials
 ├── resources/      # Additional learning materials

@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+/projects/house_price_prediction/dataset
+/projects/house_price_prediction/house_price_model.pkl
+/projects/house_price_prediction/neighborhood_encoder.pkl

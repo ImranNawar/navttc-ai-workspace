@@ -2,3 +2,16 @@
 /projects/house_price_prediction/dataset
 /projects/house_price_prediction/house_price_model.pkl
 /projects/house_price_prediction/neighborhood_encoder.pkl
+/projects/classification_project/dataset
+/projects/classification_project/best_model.pkl
+/projects/realtime_face_recognition/Classmates Images
+/projects/realtime_face_recognition/features.npy
+/projects/realtime_face_recognition/labels.npy
+/projects/content_based_image_retrieval/Dataset
+/projects/content_based_image_retrieval/faiss_index.index
+/projects/content_based_image_retrieval/labeled_descriptors.pkl
+haarcascade_frontalface_default.xml
+
+
+# Students
+projects/Jaffer/sentiment_analysis/IMDB Dataset.csv

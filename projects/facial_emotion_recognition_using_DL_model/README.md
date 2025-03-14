@@ -1,0 +1,6 @@
+## Facial Emotion Recognition
+
+This project focuses on implementing and evaluating several deep learning models for facial emotion recognition (FER) using the [FER-2013 dataset](https://www.kaggle.com/datasets/msambare/fer2013). The primary objective is to determine the approach for selecting the most suitable model for this task. We conducted extensive experiments by training and comparing the performance of CNN-based models, Vision Transformers, and the CLIP model to classify human emotions from facial expressions. The study addresses the challenges posed by the dataset's imbalance classes and low resolution, and explores fine-tuning techniques to enhance model performance. The results show that the `openai/clip-vit-base-patch32` model achieves a balance between accuracy and inference speed, making it suitable for real-time emotion recognition applications.
+
+
+For the complete implementation, documentation, and code samples, please visit the dedicated repository: [facial-emotion-recognition](https://github.com/ImranNawar/facial-emotion-recognition)

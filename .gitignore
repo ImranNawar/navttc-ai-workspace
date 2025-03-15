@@ -10,6 +10,7 @@
 /projects/content_based_image_retrieval/Dataset
 /projects/content_based_image_retrieval/faiss_index.index
 /projects/content_based_image_retrieval/labeled_descriptors.pkl
+/projects/mnist_handwritten_digit_classification_with_CNN/model.h5
 haarcascade_frontalface_default.xml
 
 

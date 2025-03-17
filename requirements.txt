@@ -10,3 +10,5 @@ ultralytics>=8.3.15
 tqdm>=4.67.1
 youtube-transcript-api==0.6.3
 streamlit==1.39.0
+keras==3.3.3
+tensorflow==2.15.0
